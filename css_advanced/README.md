@@ -1,40 +1,37 @@
-# Smile School - Advanced CSS Project
+# Smile School - Advanced CSS Project 🎨
 
-Welcome to the Smile School project! 🎉
+Welcome to the **Smile School** project!
 
-This project is a continuation of the `HTML, advanced` project. The goal here is to apply CSS styles to match a professional web design layout provided via Figma.
+This project is part of the "Advanced CSS" curriculum and focuses on building a visually engaging landing page using HTML and CSS only. It is a continuation of the `html_advanced` module.
 
-## 📚 Project Description
+## 🎯 Objectives
 
-The website you're building presents a fictional platform called Smile School. It includes:
+- Apply advanced CSS styling techniques
+- Reproduce a professional layout provided in a Figma design
+- Understand positioning, grid/flexbox, responsive design
+- Practice semantic HTML and accessibility best practices
+- Host the site using GitHub Pages
 
-- A header and banner section
-- A testimonial quote
-- A list of video tutorials
-- A membership promotion section
-- A FAQ section
-- A footer
+## 🧱 Project Structure
 
-All these sections are implemented in pure HTML and styled using pure CSS — no JavaScript, frameworks, or external libraries (like Bootstrap) are used.
 
-## 📁 Files
+## 🚀 Deployment
 
-- `index.html`: The HTML structure of the webpage (provided from the previous project)
-- `styles.css`: The CSS file where all styling is implemented
-- `README.md`: This documentation file
+This project is deployed with **GitHub Pages**.
 
-## 🧠 Key Concepts Covered
+🔗 **Live demo:** [https://ines-oubabas.github.io/holbertonschool-web-development/](https://ines-oubabas.github.io/holbertonschool-web-development/)
 
-- CSS specificity
-- Inline and external styles
-- Box model
-- Flexbox
-- Typography and fonts
-- Responsive layout
-- Semantic HTML
+## ✅ Tasks Completed
 
-## 🛠 How to Run
+- [x] Import the style
+- [x] Header and Banner
+- [x] Quotes section
+- [x] Videos list
+- [x] Membership section
+- [x] FAQ
+- [x] Footer
+- [x] Make it live with GitHub Pages
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/holbertonschool-web-development
+---
+
+> 💡 *Built with 💜 by Ines Oubabas as part of Holberton School curriculum*
