@@ -13,7 +13,14 @@ This project is part of the "Advanced CSS" curriculum and focuses on building a 
 - Host the site using GitHub Pages
 
 ## 🧱 Project Structure
-<pre><code>``` css_advanced/ ├── images/ # All image assets used on the website ├── index.html # Main HTML file of the project ├── styles.css # CSS styling file └── README.md # Project documentation ```</code></pre>
+```
+css_advanced/
+├── images/       # All image assets used on the website
+├── index.html    # Main HTML file of the project
+├── styles.css    # CSS styling file
+└── README.md     # Project documentation
+```
+
 
 ## 🚀 Deployment
 
